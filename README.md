@@ -46,4 +46,23 @@ Good code is about details. Follow each step carefully and make sure your code i
 
 🗣️ "I hear and I forget I see and I remember I do and I understand." Confucius
 
+-------------------------------------------
+## AÑADIENDO DEPENDENCIAS 
+
+<img width="535" alt="image" src="https://github.com/danielagar320/LAB2-IETI/assets/63822072/8d05785a-9291-4f3f-912c-04c20b89ab9d">
+
+## SWAGGER DE LA API
+
+<img width="902" alt="image" src="https://github.com/danielagar320/LAB2-IETI/assets/63822072/085b05d9-120d-4bdf-a75f-5299a947e62a">
+
+<img width="898" alt="image" src="https://github.com/danielagar320/LAB2-IETI/assets/63822072/e07249c2-99e7-4393-9e7d-568266ebda2a">
+
+<img width="909" alt="image" src="https://github.com/danielagar320/LAB2-IETI/assets/63822072/2bbbfd79-64ef-4703-8093-79031c5a303a">
+
+<img width="892" alt="image" src="https://github.com/danielagar320/LAB2-IETI/assets/63822072/a00ca7d9-1ecc-4996-89df-fe1c058c92f3">
+
+
+
+
+
 
